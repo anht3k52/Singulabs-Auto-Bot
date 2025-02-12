@@ -1,0 +1,30 @@
+{
+    "name": "singulabs-auto-bot",
+    "version": "1.0.0",
+    "description": "Multi-wallet AI image comparison bot",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "bot",
+      "ethereum",
+      "ai",
+      "automation"
+    ],
+    "author": "AirdropInsiderID",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.7",
+      "chalk": "^4.1.2",
+      "ethers": "^6.11.1",
+      "form-data": "^4.0.0",
+      "https-proxy-agent": "^7.0.2",
+      "siwe": "^2.1.4",
+      "socks-proxy-agent": "^8.0.2"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    }
+  }
