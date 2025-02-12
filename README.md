@@ -22,7 +22,7 @@ Công cụ tự động hóa đa ví cho các tác vụ so sánh hình ảnh AI.
 
 1. Sao chép kho lưu trữ này 
 ``` bash
-bản sao git https://github.com/airdropinsiders/Singulabs-Auto-Bot.git
+bản sao git https://github.com/adnht3k52/Singulabs-Auto-Bot.git
 cd Singulabs-Auto-Bot
 ```
 2. Cài đặt phụ thuộc:
